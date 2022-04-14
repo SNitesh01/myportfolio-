@@ -1,0 +1,11 @@
+.footer{
+    background: black;
+    height: 10vh;
+}
+
+.ftrtxt{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 2%;
+}

@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="21.999" viewBox="0 0 22 21.999">
+  <path id="Icon_awesome-user-graduate" data-name="Icon awesome-user-graduate" d="M463.357,3794a2.225,2.225,0,0,1-2.357-2.062v-.412c0-3.1,2.8-5.615,6.315-5.748l4.685,4.1,4.686-4.1c3.511.133,6.315,2.646,6.315,5.748v.412a2.225,2.225,0,0,1-2.358,2.062Zm2.358-15.124a4.918,4.918,0,0,1,.687-2.449l-3.241-.683V3778a.935.935,0,0,1,.045,1.718l.766,2.677a.45.45,0,0,1-.373.6h-2.053a.451.451,0,0,1-.373-.6l.766-2.677a.934.934,0,0,1,.044-1.718v-2.51l-.314-.064c-.888-.189-.888-1.169,0-1.358l9.36-1.973a4.839,4.839,0,0,1,1.95,0l9.349,1.977c.894.189.894,1.165,0,1.354l-4.728,1a4.87,4.87,0,0,1,.687,2.449c0,3.038-2.814,5.5-6.286,5.5S465.714,3781.912,465.714,3778.875Z" transform="translate(-461 -3772)" fill="#fff"/>
+</svg>
+
+
+
+<!-- 
+   <div class="resume-screen-container programming-skills-container">
+      
+       <div class="skill-parent">
+       <div class="heading-bullet">
+       </div>
+       <span>JavaScript</span>
+
+       <div class="skill-percentage">
+       <div class="active-percentage-bar" style="width: 85%;"></div></div></div>
+       <div class="skill-parent"><div class="heading-bullet">
+       </div><span>React JS</span><div class="skill-percentage">
+       <div class="active-percentage-bar" style="width: 85%;">
+       </div></div></div>
+       <div class="skill-parent">
+       <div class="heading-bullet">
+       </div>
+       <span>React Native</span>
+       <div class="skill-percentage">
+       <div class="active-percentage-bar" style="width: 85%;"></div></div></div>
+       <div class="skill-parent">
+       <div class="heading-bullet"></div>
+       <span>Express JS</span>
+       <div class="skill-percentage">
+       <div class="active-percentage-bar" style="width: 89%;"></div></div></div>
+       <div class="skill-parent">
+       <div class="heading-bullet">
+       </div>
+       <span>Node JS</span>
+       <div class="skill-percentage">
+       <div class="active-percentage-bar" style="width: 89%;"></div></div></div>
+       <div class="skill-parent">
+       <div class="heading-bullet">
+       </div>
+       <span>Mongo Db</span>
+       <div class="skill-percentage">
+       <div class="active-percentage-bar" style="width: 70%;"></div></div></div>
+       <div class="skill-parent">
+       <div class="heading-bullet">
+       </div>
+       <span>Core Java</span>
+       <div class="skill-percentage">
+       <div class="active-percentage-bar" style="width: 80%;"></div></div></div>
+       <div class="skill-parent">
+       <div class="heading-bullet">
+       </div>
+       <span>HTML</span>
+       <div class="skill-percentage">
+       <div class="active-percentage-bar" style="width: 80%;"></div></div></div>
+       <div class="skill-parent">
+       <div class="heading-bullet">
+       </div>
+       <span>CSS</span>
+       <div class="skill-percentage">
+       <div class="active-percentage-bar" style="width: 80%;"></div></div></div></div>
+ -->
+
+
+ <!-- 
+   
+       <div class="resume-screen-container">
+       <div class="resume-heading">
+       <div class="resume-main-heading">
+       <div class="heading-bullet">
+       </div>
+      
+      
+       <span>Personal Portfolio Website</span>
+       <div class="heading-date">2020-2021</div></div>
+       <div class="resume-sub-heading">
+         <span>Technologies Used: React JS, Bootsrap</span></div>
+         <div class="resume-heading-description">
+           <span>A Personal Portfolio website to showcase all my details and projects at one place.</span></div></div>
+           <div class="resume-heading">
+             <div class="resume-main-heading">
+               <div class="heading-bullet">
+                 </div>
+                 <span>Mobile E-shop </span>
+                 <div class="heading-date">2020-2021</div></div>
+                 <div class="resume-sub-heading">
+                   <span>Technologies Used:  React Native, Mongo DB, Express Js, Node Js, Redux.</span></div>
+                   <div class="resume-heading-description">
+                     <span>An ecommerce application designed to sell products online wth payment system integration</span></div></div>
+                     <div class="resume-heading">
+                       <div class="resume-main-heading">
+                         <div class="heading-bullet"></div>
+                         <span>Ecommerce Website </span>
+                         <div class="heading-date">2020-2021</div></div>
+                         <div class="resume-sub-heading">
+                           <span>Technologies Used: Mongo DB, Epress Js, React Js, Node JS, Redux, Bootstrap.</span></div>
+                           <div class="resume-heading-description">
+                             <span>Online ecommerce website for showcasing and selling products onlne with payment 
+                                   system integration, both Paypal and Stripe</span>
+                            </div></div></div>
+  -->
+
+
+  <!-- 
+                   
+                           
+                             <div class="resume-screen-container">
+                               <div class="resume-heading">
+                                 <div class="resume-main-heading">
+                                   <div class="heading-bullet">
+                                     </div>
+                                     <span>Teaching</span>
+                                     <div></div></div>
+                                     <div class="resume-sub-heading"><span></span></div>
+                                     <div class="resume-heading-description">
+                                       <span>Apart from being a tech enthusiast and a code writer, i also love to teach people 
+                                             what i know simply because i believe in sharing.</span>
+                                             
+    <div class="resume-heading">
+      <div class="resume-main-heading">
+        <div class="heading-bullet">
+          </div>
+          <span>Music</span><div></div></div>
+          <div class="resume-sub-heading"><span></span></div>
+          <div class="resume-heading-description">
+            <span>Listening to soothing music is something i can never compromise with, skimming 
+                  through Spotify's pop songs charts is at times the best stress reliever that i can get my hands on.</span></div></div>
+                  <div class="resume-heading">
+                    <div class="resume-main-heading">
+                      <div class="heading-bullet"></div>
+                      <span>Competitive Gaming</span><div></div></div>
+                      <div class="resume-sub-heading"><span></span></div>
+                      <div class="resume-heading-description">
+                        <span>I like to challenge my reflexes a lot while competing in football games, pushing the rank and having
+                               interactive gaming sessions excites me the most.</span>
+                               
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+   -->
