@@ -56,13 +56,13 @@ export const Contact = () => {
         <form onSubmit={handelSubmit}>
         <div className='frn' style={{padding:"15px", textAlign:"start", color:"black", fontWeight:"bold", fontSize:"18px"}}>
         <label className="#">Name</label>
-        <input type="text" name="name" className="form-control" aria-describedby="passwordHelpBlock" />
+        <input type="text" name="name" className="form-control" aria-describedby="passwordHelpBlock" required/>
         
         <label className="mt-3">Email</label>
-        <input type="email"   name="user_email" className="form-control" aria-describedby="passwordHelpBlock" />
+        <input type="email"   name="user_email" className="form-control" aria-describedby="passwordHelpBlock" required/>
        
         <label className="mt-3">Message</label>
-        <textarea className="w-100" name="message" placeholder="Message" id="floatingTextarea"></textarea>
+        <textarea className="w-100" name="message" placeholder="Message" id="floatingTextarea" required></textarea>
       
         <button  className="btn btn-success mt-3" value="send" type="submit">Send</button>
 
