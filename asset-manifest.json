@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/My_protfolio/static/css/main.aa59e0cb.css",
+    "main.js": "/My_protfolio/static/js/main.19280f93.js",
+    "static/media/Niteshkumar1.pdf": "/My_protfolio/static/media/Niteshkumar1.81d824ab737702f99437.pdf",
+    "static/media/profile.jpeg": "/My_protfolio/static/media/profile.15ea903db503b27644b8.jpeg",
+    "static/media/img2.jpeg": "/My_protfolio/static/media/img2.4304b615e0b5ff265a0a.jpeg",
+    "static/media/bg.jpeg": "/My_protfolio/static/media/bg.d13d5e32cbc73884b526.jpeg",
+    "index.html": "/My_protfolio/index.html",
+    "main.aa59e0cb.css.map": "/My_protfolio/static/css/main.aa59e0cb.css.map",
+    "main.19280f93.js.map": "/My_protfolio/static/js/main.19280f93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa59e0cb.css",
+    "static/js/main.19280f93.js"
+  ]
+}
